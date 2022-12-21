@@ -10,5 +10,9 @@ public class Company {
 		System.out.println("Company id: 1122");
 	}
 	
+	private void comStatus() {
+		System.out.println("Working now");
+	}
+	
 
 }
